@@ -286,9 +286,13 @@ input[type="range"]::-webkit-slider-thumb{
 	.left img{
         min-width: 90%;
         height: 180px;
+
+
 	}
 	.main #logo{
 		display: none;
+
+        
 	}
 	.song_detail{
 		position: absolute;
