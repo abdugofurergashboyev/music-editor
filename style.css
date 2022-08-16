@@ -286,10 +286,12 @@ input[type="range"]::-webkit-slider-thumb{
 	.left img{
         min-width: 90%;
         height: 180px;
+        
 
 
 	}
 	.main #logo{
+
 		display: none;
 
 
@@ -300,6 +302,8 @@ input[type="range"]::-webkit-slider-thumb{
 		left: 10px;
 		width: 80%;
 		height: 70px;
+
+
 	}
 	.song_detail #title{
 		font-size: 1.5em;
@@ -307,7 +311,7 @@ input[type="range"]::-webkit-slider-thumb{
 	.song_detail #artist{
 		font-size: 0.8em;
 
-        
+
 	}
 	.right .middle button{
 		height: 62px;
