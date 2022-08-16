@@ -282,11 +282,13 @@ input[type="range"]::-webkit-slider-thumb{
 	.left{
 		margin-top: 5em;
 	    width: 80%;
+
+        
 	}
 	.left img{
         min-width: 90%;
         height: 180px;
-        
+
 
 
 	}
